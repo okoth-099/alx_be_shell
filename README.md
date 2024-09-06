@@ -1,2 +1,1 @@
-# alx_be_shell
-Shell_project
+# This script is changing ownership of a file
