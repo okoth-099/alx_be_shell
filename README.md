@@ -1,1 +1,1 @@
-My Script for shell projects
+Scripts for my shell project
