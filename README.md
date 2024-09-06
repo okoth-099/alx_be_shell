@@ -1,1 +1,1 @@
-# This script is about changing ownership of a file
+My Script for shell projects
