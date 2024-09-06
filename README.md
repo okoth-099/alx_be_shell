@@ -1,1 +1,1 @@
-# This script is changing ownership of a file
+# This script is about changing ownership of a file
