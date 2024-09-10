@@ -1,1 +1,1 @@
-script to change user
+These will be my shell scripts stored in this root folder
